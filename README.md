@@ -3,7 +3,7 @@
 > 在算法海洋中锚定人类主权，构建人机共生的文明契约
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/YOUR_USERNAME/ai-native-os/releases)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/jie955/ai-native-os/releases/tag/v1.0)
 [![Language](https://img.shields.io/badge/language-中文-red.svg)](README.md)
 
 > **注：** 这是个人维护的开源项目，欢迎参与讨论与贡献
