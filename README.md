@@ -48,7 +48,7 @@
   - 生产关系重构
   - 未来推演
 
-**📥 下载总纲 PDF:(https://github.com/user-attachments/files/25521737/AI-Native.OS.Constitution.V1.0.pdf)**
+**📥**[下载总纲 PDF](./AI-Native.OS.Constitution.V1.0.pdf)**
 
 ---
 
@@ -127,7 +127,7 @@ AI-Native OS通过19个协议构成纵深防御体系：
 | **群体治理与防御** | P-02 群体治理、P-10 沙盒隔离、P-17 行为异常检测 |
 | **系统治理与约束** | P-06 多源治理、P-07 执行成本结构 |
 
-📋 完整协议列表下载PDF
+📋完整协议列表请参阅总纲 PDF 附录 B
 
 ---
 
