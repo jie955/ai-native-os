@@ -48,7 +48,7 @@
   - 生产关系重构
   - 未来推演
 
-**📥 [下载总纲 PDF](../../releases/v1.0/AI-Native-OS-Constitution-v1.0.pdf)**
+**📥 [下载总纲 PDF](https://github.com/user-attachments/files/25521737/AI-Native.OS.Constitution.V1.0.pdf))**
 
 ---
 
