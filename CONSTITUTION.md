@@ -305,7 +305,13 @@ AI-Native OS由19个核心协议构成纵深防御体系，按功能分类如下
 |-------------------|----------------------------------------------------------------------|
 | ✅ 学术引用/教育分享 | 1. 保留原作者署名 `[jie955](https://github.com/jie955)`<br>2. 链接至[本仓库](https://github.com/jie955/ai-native-os) |
 | ✅ 二次创作/翻译    | 1. 署名 + 链接本仓库<br>2. **必须**采用 [CC BY-NC-SA 4.0](../LICENSE) 相同许可发布 |
-| ❌ 商业使用        | 需通过 [licensing@ai-native-os.org](heguang005@gmail.com) 获取单独授权 |
+| ❌ 商业使用        | 需[联系作者](mailto:heguang005@gmail.com)获取个人授权                  |
 
 > 🌱 *思想因共享而璀璨，因责任而持久。*  
 > 🔍 **验证提示**：GitHub 仓库主页将显示官方许可徽章，确认法律效力。
+
+> 🌍 **English Version**  
+> © 2026 [jie955](https://github.com/jie955). All rights reserved.  
+> This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](../LICENSE).  
+> **Commercial use requires personal authorization** from the author: [Contact via email](mailto:heguang005@gmail.com)
+
