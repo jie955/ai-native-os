@@ -33,8 +33,8 @@ When AI evolves from tool to productivity entity, we face a core challenge: **Ho
 
 | Language | Document (Markdown) | PDF Download |
 | --- | --- | --- |
-| 🇨🇳 **中文** | [查看文档](https://www.google.com/search?q=CONSTITUTION.md) | [下载 PDF](https://www.google.com/search?q=ai-native-os-v1.0-zh.pdf) |
-| 🇬🇧 **English** | [Read Document](https://www.google.com/search?q=CONSTITUTION.en.md) | [Download PDF](https://www.google.com/search?q=ai-native-os-v1.0-en.pdf) |
+| 🇨🇳 **中文** | [查看文档](CONSTITUTION.md) | [下载 PDF](ai-native-os-v1.0-zh.pdf) |
+| 🇬🇧 **English** | [Read Document](CONSTITUTION.en.md) | [Download PDF](ai-native-os-v1.0-en.pdf) |
 
 **Position | 定位:** Philosophy + Core Principles (0% technical details)
 
