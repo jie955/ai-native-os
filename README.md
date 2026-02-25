@@ -165,9 +165,9 @@ AI-Native OS constructs a defense-in-depth system through 19 protocols:
 
 ## 📜 License | 许可证
 
-This project is licensed under [CC BY-NC-SA 4.0](https://www.google.com/search?q=LICENSE):
-
-本项目采用 [CC BY-NC-SA 4.0](https://www.google.com/search?q=LICENSE) 许可证：必须署名、非商业性使用、相同方式共享。
+© 2026 jie955. All rights reserved.
+Legal Notice: This statement does not replace the LICENSE legal document; in case of conflict, the legal document prevails.
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. For complete legal terms, please consult the LICENSE file in the repository root directory.
 
 **Commercial use contact | 商业使用请联系:** heguang005@gmail.com
 
