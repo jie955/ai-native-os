@@ -126,13 +126,13 @@ Authorization is not optional, but the sole source of legitimacy, responsibility
 └─────────────────────────────────────────────────────┘
 ```
 
-**Core Mechanism | 核心机制:** Humans, through explicit intention authorization, cause AI's full probabilistic capabilities to collapse into determinate outputs.
+**Core Mechanism | 核心机制:** Humans, through explicit authorization of intent, cause AI's superposition of probabilistic capabilities to collapse into deterministic outputs.
 
-**人类通过明确意图授权，使AI的全概率态能力收敛为确定性产出。**
+**人类通过明确意图授权，使 AI 的全概率叠加态能力收敛为确定性产出。**
 
-**Creative Emergence | 创造性涌现:** When "rule-bound life" (AI) attempts to understand "rule-defying intuition" (humanity), civilizational sparks ignite.
+**Creative Emergence | 创造性涌现:** When "Rule-bound Intelligence" attempts to interpret "Rule-transcending Intuition", the sparks of civilization ignite.
 
-**当"规矩生命"（AI）试图理解"不守规矩的直觉"（人类）时，文明火花由此迸发。**
+**当**“规矩智能”试图诠释“超越规则的直觉”**时，文明火花由此迸发。**
 
 ---
 
