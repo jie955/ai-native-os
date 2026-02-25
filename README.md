@@ -41,7 +41,7 @@ This framework provides systematic answers through 19 core protocols and a seven
 | Language | Document | PDF Download |
 |----------|----------|--------------|
 | 🇨🇳 **中文** | [查看文档](CONSTITUTION.md) | [下载PDF](ai-native-os-v1.0-zh.pdf) |
-| 🇬🇧 **English** | [Read Document](CONSTITUTION-EN.md) | [Download PDF](ai-native-os-v1.0-en.pdf) |
+| 🇬🇧 **English** | [Read Document](CONSTITUTION.en.md) | [Download PDF](ai-native-os-v1.0-en.pdf) |
 
 **Position | 定位:** Philosophy + Core Principles (0% technical details)  
 **Length | 篇幅:** ~20 pages  
