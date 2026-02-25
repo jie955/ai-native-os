@@ -144,7 +144,7 @@ AI-Native OS constructs a defense-in-depth system through 19 protocols:
 | **Sovereignty & Circuit Breaking** | P-13 Biological Confirmation, P-18 Sovereignty Self-Destruction Protection |
 | **Group Governance** | P-02 Group Governance, P-10 Sandbox Isolation |
 
-📋 Complete protocol list | 完整协议列表：See Appendix B in [CONSTITUTION.md](https://www.google.com/search?q=CONSTITUTION.md)
+📋 Complete protocol list | 完整协议列表：See Appendix B in [CONSTITUTION.md](CONSTITUTION.md)
 
 ---
 
@@ -154,7 +154,7 @@ AI-Native OS constructs a defense-in-depth system through 19 protocols:
 
 * [x] Constitution v1.0 (Bilingual release)
 * [x] Core principles established
-* [x] [CONSTITUTION.md](https://www.google.com/search?q=CONSTITUTION.md) & [CONSTITUTION.en.md](https://www.google.com/search?q=CONSTITUTION.en.md)
+* [x] [CONSTITUTION.md](CONSTITUTION.md) & [CONSTITUTION.en.md](CONSTITUTION.en.md)
 
 ### 🚧 Phase 2: Technical Implementation (In Progress)
 
