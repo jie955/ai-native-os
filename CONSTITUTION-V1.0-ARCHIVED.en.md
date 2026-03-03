@@ -1,4 +1,4 @@
-# AI-Native OS Constitution (V1.0)
+# CONSTITUTION-V1.0-ARCHIVED.en.md
 
 > **"Anchoring Human Sovereignty in the Algorithmic Ocean, Building a Civilizational Covenant for Human-AI Symbiosis."**
 
