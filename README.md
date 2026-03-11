@@ -142,17 +142,31 @@ Authorization is not optional, but the sole source of legitimacy, responsibility
 
 ## 🛡️ 23 Core Protocols | 23个核心协议
 
-AI-Native OS constructs a defense-in-depth system through 19 protocols:
 
-AI-Native OS通过19个协议构成纵深防御体系：
+在 V1.2 版本中，系统从最初的 19 个协议扩展到了 **23 个核心协议**，构建了从法律共识到物理硬件的完整防御纵深。
+
+
+AI-Native OS constructs a defense-in-depth system through **23 protocols** across six dimensions:
+
+AI-Native OS 通过 **23 个协议** 构筑起覆盖六大维度的纵深防御体系：
 
 | Category 类别 | Protocol Examples 协议示例 |
 |--------------|---------------------------|
-| **Ontology & Ethics 本体论与伦理** | P-01 Ontological Decoupling 本体论解耦<br>P-11 Ethical Reservation Clause 伦理保留条款 |
-| **Data & Intention Protection 数据与意图保护** | P-03 Intention Purification 意图净化<br>P-04 Reasoning Transparency 推理透明化 |
-| **Sovereignty Confirmation & Circuit Breaking 主权确认与熔断** | P-13 Biological Confirmation 生物确认<br>P-16 Authorization Accumulation Monitoring 授权累积监控<br>P-18 Sovereignty Self-Destruction Protection 主权自毁防护 |
-| **Group Governance & Defense 群体治理与防御** | P-02 Group Governance 群体治理<br>P-10 Sandbox Isolation 沙盒隔离<br>P-17 Behavioral Anomaly Detection 行为异常检测 |
-| **System Governance & Constraints 系统治理与约束** | P-06 Multi-Source Governance 多源治理<br>P-07 Execution Cost Structure 执行成本结构 |
+| **Ontology & Ethics 本体论与伦理** | P-01 Ontological Decoupling 本体论解耦<br>P-11 Ethical Reservation Clause 伦理保留条款<br>P-14 Knowledge Boundary Declaration 知识边界声明<br>P-18 Authorization Chain Break 授权链条断裂保护 |
+| **Data & Intention Protection 数据与意图保护** | P-03 Intention Purification 意图净化机制<br>P-04 Reasoning Transparency 推理中间态透明化<br>P-05 Information Veracity Filtering 信息真实性过滤<br>P-10 Tiered Cognitive Sandbox 分级认知沙盒 |
+| **Sovereignty Confirmation & Circuit Breaking 主权确认与熔断** | P-13 Biological Confirmation Non-Delegability 生物确认不可代理<br>P-15 Cognitive Health Protocol 认知健康度协议<br>P-16 Authorization Accumulation Monitoring 授权累积监控<br>P-19 INAC-Fuse (Irrevocable Authorization Fuse) 不可撤销授权熔断<br>P-23 (P-CC-Plus) Four-Layer Audit 四层透明化审计闭环 |
+| **Group Governance & Defense 群体治理与防御** | P-02 AI Agent Group Governance AI 代理群体治理<br>P-09 Execution Governance Nodes 执行治理节点<br>P-17 Behavioral Entropy Anomaly Detection 行为熵异常检测<br>P-21 JAC Boundary Generation JAC 边界生成协议<br>P-22 ISCP Inter-Sovereignty Collaboration 跨主权协作协议 |
+| **System Governance & Constraints 系统治理与约束** | P-06 Multi-Source Governance 多源治理<br>P-07 Execution Cost Structure 执行成本结构<br>P-08 Social Pressure Immunity 社会压力免疫<br>P-12 High-Risk Behavior Assessment 高风险行为评估<br>P-20 Sovereign Value Confirmation Protocol 主权收益确认协议 |
+
+---
+
+### 💡 关键修订说明 (V1.0 → V1.2)：
+
+1.  **协议数量跃迁**：从 19 个协议升级为 **23 个**，新增了涉及跨主权协作（JAC/ISCP）与穿透审计（P-CC-Plus）的核心防御层。
+2.  **去拟人化修正**：原 P-18 “主权自毁（Sovereignty Self-Destruction）” 正式更名为 **“授权链条断裂保护（Authorization Chain Break）”**，强调纯粹的法理与责任逻辑。
+3.  **主权监控三角体系**：通过 **P-19 (INAC-Fuse)**、**P-16 (累积阈值)** 与 **P-15 (认知状态)** 的联动，防范因认知疲劳导致的主权静默蒸发。
+4.  **确立价值闭环**：正式引入 **P-20 主权收益确认协议**，基于“责任即所有权”原则，确保承担法律责任的人类主体获得全部主权溢价。
+5.  **穿透算法黑盒**：通过 **P-23 (P-CC-Plus)** 四层审计机制，确保组织级的冲突定义规则对所有主权参与者透明且可审计。
 
 📋 Complete protocol list | 完整协议列表：See Appendix B in Constitution | 请参阅总纲附录B
 
