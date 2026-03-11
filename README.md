@@ -140,7 +140,7 @@ Authorization is not optional, but the sole source of legitimacy, responsibility
 
 ---
 
-## 🛡️ 19 Core Protocols | 23个核心协议
+## 🛡️ 23 Core Protocols | 23个核心协议
 
 AI-Native OS constructs a defense-in-depth system through 19 protocols:
 
