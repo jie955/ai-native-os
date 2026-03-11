@@ -34,6 +34,7 @@ This framework provides systematic answers through 19 core protocols and a seven
 
 
 Intelligence is no longer scarce; sovereignty is inalienable. Officially releasing AI-Native OS V1.2 infographic. Anchoring humanity's 1% intuitive spark through 23 protocols.
+https://github.com/jie955/ai-native-os/blob/main/Visual%20Blueprint%20AI-Native%20OS%20V1.2%20Architecture%20Civilizational%20Framework.png
 ---
 
 ## 🌍 Read in Your Language | 选择您的语言
