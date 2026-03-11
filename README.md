@@ -32,6 +32,7 @@ This framework provides systematic answers through 19 core protocols and a seven
 
 本框架通过19个核心协议与七层架构，提供了系统性答案。
 
+
 ---
 
 ## 🌍 Read in Your Language | 选择您的语言
@@ -136,7 +137,7 @@ Authorization is not optional, but the sole source of legitimacy, responsibility
 
 ---
 
-## 🛡️ 19 Core Protocols | 19个核心协议
+## 🛡️ 19 Core Protocols | 23个核心协议
 
 AI-Native OS constructs a defense-in-depth system through 19 protocols:
 
