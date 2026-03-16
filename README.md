@@ -77,7 +77,7 @@ Intelligence is no longer scarce; sovereignty is inalienable. Officially releasi
 **中文：**
 - **边界即共生** — 清晰的主权边界是协作前提
 - **授权即确权** — 所有价值与责任追溯至人类授权
-- **内核稳定、扩展灵活** — 19个协议 + 七层架构
+- **内核稳定、扩展灵活** — 23个协议 + 七层架构
 
 ---
 
