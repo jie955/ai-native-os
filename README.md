@@ -22,7 +22,7 @@
 
 When AI evolves from tool to productivity entity, we face a core challenge: **How do we embrace AI's augmentation while preserving human sovereignty?**
 
-This framework provides systematic answers through 19 core protocols and a seven-layer architecture.
+This framework provides systematic answers through 23 core protocols and a seven-layer architecture.
 
 **中文：**
 
@@ -30,7 +30,7 @@ This framework provides systematic answers through 19 core protocols and a seven
 
 当AI从工具跃迁为生产力本体，我们面临核心挑战：**如何在拥抱增强的同时，守护人类主权？**
 
-本框架通过19个核心协议与七层架构，提供了系统性答案。
+本框架通过23个核心协议与七层架构，提供了系统性答案。
 
 
 Intelligence is no longer scarce; sovereignty is inalienable. Officially releasing AI-Native OS V1.2 infographic. Anchoring humanity's 1% intuitive spark through 23 protocols.
@@ -72,7 +72,7 @@ Intelligence is no longer scarce; sovereignty is inalienable. Officially releasi
 **English:**
 - **Boundaries Enable Symbiosis** — Clear sovereignty boundaries are collaboration prerequisites
 - **Authorization Establishes Rights** — All value and responsibility trace to human authorization
-- **Stable Core, Flexible Extension** — 19 protocols + seven-layer architecture
+- **Stable Core, Flexible Extension** — 23 protocols + seven-layer architecture
 
 **中文：**
 - **边界即共生** — 清晰的主权边界是协作前提
@@ -252,7 +252,7 @@ AI-Native OS 通过 **23 个协议** 构筑起覆盖六大维度的纵深防御�
 
 - Dual-Circle Symbiosis Model | 双圆共生模型
 - Two Meta-Rules | 两条元规则
-- 19 Protocol Overview | 19个协议概览
+- 23 Protocol Overview | 23个协议概览
 
 ### 3. Engage in Discussion | 参与讨论
 
